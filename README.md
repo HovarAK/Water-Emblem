@@ -2,6 +2,8 @@
 
 Have you ever wanted to play an RPG, but didn't know if you'd like the style? Well, with our product, you can play the miniature version of an RPG, and see if slaying monsters is for you.
 
+## Developers
+Neel Edara, Gia Santos, Raine Gibson, Malcolm Dickens
 ## Inspiration
 Initially wanted to make a game on the same basis as Final Fantasy.
 ## What it does
